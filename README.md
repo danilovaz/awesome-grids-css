@@ -22,6 +22,8 @@ Inspired by [awesome-flexbox](https://github.com/afonsopacifer/awesome-flexbox) 
 
 ## Guides
 *Guides for developers or designers start their studies this wonderful technology.* :metal:
+* [Building with grid](http://chris.house/blog/building-a-home-page-with-grid/) - Building a Home Page with Grid
+* [The Holy Grail Layout](http://bitsofco.de/holy-grail-layout-css-grid/) - The Holy Grail Layout with CSS Grid
 
 ## Tools
 *Have a little help to create their projects* :smiley:
@@ -33,6 +35,7 @@ Inspired by [awesome-flexbox](https://github.com/afonsopacifer/awesome-flexbox) 
 
 ## Talks
 *Tired of reading articles? See an interactive talk and learn grid system now.*
+*[Making Sense of the New CSS Layout](https://rachelandrew.co.uk/archives/2016/03/25/making-sense-of-the-new-css-layout/?utm_content=bufferfb55e&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) - At Fluent Conf in San Francisco I presented a fairly high-speed look at the latest modules for CSS Layout.
 
 ## Who to Follow
 *People who talk about it.*
