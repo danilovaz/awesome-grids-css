@@ -24,8 +24,8 @@ Inspired by [awesome-flexbox](https://github.com/afonsopacifer/awesome-flexbox) 
 ## Guides
 *Guides for developers or designers start their studies this wonderful technology.* :metal:
 * [Building with grid](http://chris.house/blog/building-a-home-page-with-grid/) - Building a Home Page with Grid
-* [The Holy Grail Layout](http://bitsofco.de/holy-grail-layout-css-grid/) - The Holy Grail Layout with CSS Grid
-* [The future of layout with css grid layouts](https://hacks.mozilla.org/2015/09/the-future-of-layout-with-css-grid-layouts/)
+* [The future of layout with CSS Grid layouts](https://hacks.mozilla.org/2015/09/the-future-of-layout-with-css-grid-layouts/) - The future of layout with CSS Grid layouts
+* [The holy grail layout](http://bitsofco.de/holy-grail-layout-css-grid/) - The Holy Grail Layout with CSS Grid
 
 ## Tools
 *Have a little help to create their projects* :smiley:
@@ -41,8 +41,8 @@ Inspired by [awesome-flexbox](https://github.com/afonsopacifer/awesome-flexbox) 
 
 ## Who to Follow
 *People who talk about it.*
-* Rachel Andrew [@rachelandrew](https://twitter.com/rachelandrew)
 * Afonso Pacifer [@afonsopacifer](https://twitter.com/afonsopacifer)
+* Rachel Andrew [@rachelandrew](https://twitter.com/rachelandrew)
 
 
 ## Contributing
