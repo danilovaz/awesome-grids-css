@@ -1,6 +1,7 @@
 [![awesome flexbox](awesome-grids-css.png)](https://github.com/danilovaz/awesome-grids-css/)
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![CodeOfConduct](https://img.shields.io/badge/code%20of%20conduct-1.3.0-ff69b4.svg)](http://contributor-covenant.org/version/1/3/0/)
 [![Build Status](https://travis-ci.org/danilovaz/awesome-grids-css.svg?branch=master)](https://travis-ci.org/danilovaz/awesome-grids-css)
 
 > A curated list of awesome Grids CSS System.
