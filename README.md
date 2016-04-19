@@ -42,7 +42,7 @@ Inspired by [awesome-flexbox](https://github.com/afonsopacifer/awesome-flexbox) 
 *People who talk about it.*
 
 ## Contributing
-Want to contribute? [Follow these recommendations](https://github.com/danilovaz/awesome-grids-css/blob/master/contributing.md).
+Want to contribute? [Follow these recommendations](https://github.com/danilovaz/awesome-grids-css/blob/master/CONTRIBUTING.md).
 
 ## License
 
