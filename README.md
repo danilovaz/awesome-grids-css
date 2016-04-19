@@ -40,6 +40,9 @@ Inspired by [awesome-flexbox](https://github.com/afonsopacifer/awesome-flexbox) 
 
 ## Who to Follow
 *People who talk about it.*
+* Rachel Andrew [@rachelandrew](https://twitter.com/rachelandrew)
+* Afonso Pacifer [@afonsopacifer](https://twitter.com/afonsopacifer)
+
 
 ## Contributing
 Want to contribute? [Follow these recommendations](https://github.com/danilovaz/awesome-grids-css/blob/master/CONTRIBUTING.md).
