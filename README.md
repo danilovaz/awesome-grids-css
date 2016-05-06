@@ -24,6 +24,7 @@ Inspired by [awesome-flexbox](https://github.com/afonsopacifer/awesome-flexbox) 
 ## Guides
 *Guides for developers or designers start their studies this wonderful technology.* :metal:
 * [Building with grid](http://chris.house/blog/building-a-home-page-with-grid/) - Building a Home Page with Grid
+* [Introducing the CSS Grid Layout](http://www.sitepoint.com/introducing-the-css-grid-layout/)
 * [The future of layout with CSS Grid layouts](https://hacks.mozilla.org/2015/09/the-future-of-layout-with-css-grid-layouts/) - The future of layout with CSS Grid layouts
 * [The holy grail layout](http://bitsofco.de/holy-grail-layout-css-grid/) - The Holy Grail Layout with CSS Grid
 
